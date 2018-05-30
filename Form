@@ -22,8 +22,8 @@
   <input type="checkbox"name="p">Personal coaching
   <input type="checkbox"name="w">Web Developer
   <input type="checkbox"name="p">Programming<br><br>
-  Feedback:<br>
-            <pre>    <textarea name="Feedback"rows="20"cols="50"></pre></textarea>
+  <pre>Feedback:<br>
+               <textarea name="Feedback"rows="20"cols="50"></pre></textarea>
 <pre>                                                        <input type="reset"value="reset"> <input type="submit"value="submit"></pre>
 
 </form>

@@ -1,0 +1,37 @@
+<html>
+<head></head>
+<style>
+table,th,td{
+  border:1px dotted black;
+  width:50%;
+  padding:20px;
+}
+H1{
+border:5px dashed black;
+padding:50px;
+}
+p{
+  background-color: red;
+  margin: 150px;
+}
+</style>
+<body>
+<h1>hey uki</h1>
+<p>What's up</p>
+<table>
+  <tr>
+    <th>name</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Vavitha</td>
+    <td>19</td>
+  </tr>
+  <tr>
+    <td>Tharsana</td>
+    <td>20</td>
+  </tr>
+</table>
+
+</body>
+</html>
