@@ -1,0 +1,15 @@
+
+a:link{
+  color:red;
+  font-size: 100px;
+}
+a:visited{
+  color:purple;
+}
+a:hover{
+  color:lime;
+  font-size: 200px;
+}
+a:active{
+  color:black;
+}

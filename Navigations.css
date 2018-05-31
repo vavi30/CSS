@@ -1,0 +1,8 @@
+ul{
+list-style-type: none;
+background: red;
+width:1000px;
+}
+li.a{
+  display: block;color: blue;
+}
