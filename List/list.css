@@ -1,0 +1,18 @@
+
+ul.a{
+  background-color: Red;
+  padding:50px;
+  list-style-position: inside;
+}
+ul.b{
+    list-style-image: url(IMG22231471437333.jpg);
+}
+ol.a{
+  list-style-type: lower-roman;
+}
+ol.b{
+  list-style-type:upper-roman;
+  margin: 10px;
+  padding: 15px;
+  list-style-position: outside;
+}
